@@ -1,0 +1,4 @@
+name: JumboMob
+version: '1.0-SNAPSHOT'
+main: io.github.smile_ns.jumboMob.JumboMob
+api-version: '1.21'
